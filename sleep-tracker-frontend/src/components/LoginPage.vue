@@ -6,7 +6,7 @@
       <input type="password" v-model="password" placeholder="Password" required />
       <button type="submit">Login</button>
     </form>
-    <p>Don't have an account? <router-link to="/register">Register</router-link></p>
+    <p>Don't have an account ? <router-link to="/register">Register</router-link></p>
   </div>
 </template>
 
